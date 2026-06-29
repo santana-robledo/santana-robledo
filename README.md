@@ -1,5 +1,7 @@
 Apasionado por la robótica, la inteligencia artificial y la automatización, con un enfoque en sistemas autónomos, programación de sistemas embebidos y control inteligente.
 
+Actualmente curso la Maestría de Ciencias en Robótica e Inteligencia Artificial.
+
 Disfruto desarrollar soluciones innovadoras que integran IA, robótica y automatización para resolver problemas del mundo real. Siempre estoy aprendiendo, experimentando y compartiendo mis proyectos con la comunidad.
 
 ¿Qué encontrarás en mis repositorios?
