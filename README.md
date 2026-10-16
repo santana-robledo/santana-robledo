@@ -1,12 +1,23 @@
-Apasionado por la robótica, la inteligencia artificial y la automatización, con un enfoque en sistemas autónomos, programación de sistemas embebidos y control inteligente.
+<h1 align="center">Hi 👋, I'm Santana Robledo</h1>
+<h3 align="center">MSc Student in Robotics & Artificial Intelligence | Machine Learning, Data Science & Intelligent Control</h3>
 
-Actualmente estoy cursando la Maestría de Ciencias en Robótica e Inteligencia Artificial.
+- 🔭 I’m currently working on **Robotics and AI research, neural networks, machine learning, and intelligent control systems for mobile robots.**
 
-Disfruto desarrollar soluciones innovadoras que integran IA, robótica y automatización para resolver problemas del mundo real. Siempre estoy aprendiendo, experimentando y compartiendo mis proyectos con la comunidad.
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Reinforcement Learning, Data Science, and advanced Robotics**
 
-¿Qué encontrarás en mis repositorios?
-- Proyectos de robótica y sistemas autónomos.
-- Proyectos de inteligencia artificial y visión por computadora.
-- Automatización y sistemas embebidos.
-- Proyectos con Python, C++, ESP32 y Raspberry Pi.
-- Ideas experimentales, prototipos y aprendizaje continuo.
+- 👯 I’m looking to collaborate on **Open-source projects in Data Science, Machine Learning, Deep Learning, Robotics, and Artificial Intelligence, especially projects involving intelligent control, computer vision, and autonomous mobile robots.**
+
+- 🤝 I’m looking for help with **Advanced Machine Learning, Deep Learning, Neural Network optimization, and research in Robotics and Artificial Intelligence, particularly Zhang Neural Networks (ZNN) and intelligent control systems.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/santana-robledo](https://github.com/santana-robledo)
+
+- ⚡ Fun fact **I enjoy a good challenge, whether it’s in a video game or in real life!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/santana-robledo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santana-robledo" height="30" width="40" /></a>
+<a href="https://kaggle.com/santana-robledo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santana-robledo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
