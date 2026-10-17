@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santana Robledo</h1>
-<h3 align="center">MSc Student in Robotics & Artificial Intelligence | Machine Learning, Data Science & Intelligent Control</h3>
+<h3 align="center">MSc Student in Robotics & Artificial Intelligence | Machine Learning, Data Science, Robotics & Intelligent Control</h3>
 
 - 🔭 I’m currently working on **Robotics and AI research, neural networks, machine learning, and intelligent control systems for mobile robots.**
 
