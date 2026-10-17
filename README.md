@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects in Data Science, Machine Learning, Deep Learning, Robotics, and Artificial Intelligence, especially projects involving intelligent control, computer vision, and autonomous mobile robots.**
 
-- 🤝 I’m looking for help with **Advanced Machine Learning, Deep Learning, Neural Network optimization, and research in Robotics and Artificial Intelligence, particularly Zhang Neural Networks (ZNN) and intelligent control systems.**
+- 🤝 I’m looking for help with **Advanced Machine Learning, Deep Learning, Neural Network optimization, and research in Robotics and Artificial Intelligence and intelligent control systems.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/santana-robledo](https://github.com/santana-robledo)
 
